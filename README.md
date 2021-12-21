@@ -30,4 +30,10 @@ $ python fivem_resolver.py
 
 Enter the cfx.re link and Enjoy 
 
+⚠️ If you have : No module named cloudscraper error
+
+```
+$ pip install cloudscraper
+```
+
 Made with <3
