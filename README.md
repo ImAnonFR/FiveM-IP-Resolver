@@ -6,6 +6,9 @@ Install python 3.7 or higher.
 Install pip if it's not done.
 
 git clone or download the repo.
+```
+$ git clone https://github.com/ImAnonFR/FiveM-IP-Resolver
+```
 
 do :
 ```
