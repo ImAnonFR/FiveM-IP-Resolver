@@ -3,6 +3,7 @@ import json
 
 def resolver():
     print("\n"*10)
+    print("Resolver By ImAnonFR")
     cfx = input("Enter the Cfx.re link : ")
     if not "cfx.re/join" in cfx:
         print("Paste in format 'https://cfx.re/join/....'\n\n")
