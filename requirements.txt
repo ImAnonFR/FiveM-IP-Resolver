@@ -1,2 +1,2 @@
-cloudscraper
-json
+cloudscraper==1.2.58
+requests-toolbelt==0.9.1
