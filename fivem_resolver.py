@@ -19,10 +19,10 @@ def resolver():
     hostname = result["Data"]["hostname"]
     print("\n"*3)
     try : 
-        print("Thse Server is : "+ hostname)
+        print("The Server is : "+ hostname)
         print("The IP and Port are : " + ip[0])
     except :
-        print("Thse Server is : "+ hostname)
+        print("The Server is : "+ hostname)
         print("No IP Available")
     
 
