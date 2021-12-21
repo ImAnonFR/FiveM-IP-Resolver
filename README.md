@@ -11,14 +11,19 @@ git clone or download the repo.
 $ git clone https://github.com/ImAnonFR/FiveM-IP-Resolver
 ```
 
-do :
+Now, go in the repo :
+```
+$ cd FiveM-IP-Resolver
+```
+
+After this, do :
 ```
 $ pip install -r requirements.txt
 ```
 
 ## How to use :
 
-do :
+do in the repo:
 ```
 $ python fivem_resolver.py
 ```
