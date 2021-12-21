@@ -3,6 +3,7 @@
 ## Install :
 
 Install python 3.7 or higher.
+
 Install pip if it's not done.
 
 git clone or download the repo.
