@@ -16,10 +16,13 @@ def resolver():
     resolve = scraper.get("https://servers-frontend.fivem.net/api/servers/single/"+cfx_num)
     result = resolve.json()
     ip = result["Data"]["connectEndPoints"]
+    hostname = result["Data"]["hostname"]
     print("\n"*3)
     try : 
+        print("Thse Server is : "+ hostname)
         print("The IP and Port are : " + ip[0])
     except :
+        print("Thse Server is : "+ hostname)
         print("No IP Available")
     
 
