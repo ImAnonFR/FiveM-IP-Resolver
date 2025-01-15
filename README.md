@@ -30,7 +30,7 @@ $ source venv/bin/activate
 ```
  - On Windows:
 ```
-$ .\venvwindows\Scripts\activate
+$ .\venv\Scripts\activate
 ```
 
 After this, do :
