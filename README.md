@@ -6,6 +6,8 @@ Install python 3.7 or higher.
 
 Install pip if it's not done.
 
+Install virtualenv [HERE for virtualenv doc](https://docs.python.org/3/library/venv.html)
+
 git clone or download the repo.
 ```
 $ git clone https://github.com/ImAnonFR/FiveM-IP-Resolver
@@ -14,6 +16,21 @@ $ git clone https://github.com/ImAnonFR/FiveM-IP-Resolver
 Now, go in the repo :
 ```
 $ cd FiveM-IP-Resolver
+```
+
+Create python virtualenv :
+```
+$ python -m venv ./venv
+```
+
+Start using virtualenv :
+ - On Linux:
+```
+$ source venv/bin/activate
+```
+ - On Windows:
+```
+$ .\venvwindows\Scripts\activate
 ```
 
 After this, do :
